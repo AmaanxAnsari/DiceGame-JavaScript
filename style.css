@@ -1,0 +1,25 @@
+body{
+    background: rgb(255,235,205);
+    background: radial-gradient(circle, rgba(255,235,205,1) 0%, rgb(112, 2, 6) 92%);
+
+  }
+  .container{
+      margin-top: 10rem;
+  }
+  h1,h2{
+  font-family: fantasy;
+  color: blanchedalmond;
+  text-shadow: 5px 5px rgb(156, 6, 12);
+
+  }
+  h1{
+      font-size: 60px;
+  }
+  .btn{
+      background-color:rgb(156, 6, 12);
+      color: blanchedalmond;
+  }
+  .btn:hover{
+      color: rgb(156, 6, 12);
+      background-color: blanchedalmond;
+  }
